@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Champ130
 - 👀 I’m interested in Python Fullstack Development and cloud
-- 🌱 I’m currently learning AWS cloud computing
+- 🌱 I’m currently learning AWS cloud computing and React
 - 📫 How to reach me suryamonu204@gmail.com
 
 <!---
