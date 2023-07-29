@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Champ130
-- 👀 I’m interested in Web Development and cloud
+- 👀 I’m interested in Python Fullstack Development and cloud
 - 🌱 I’m currently learning AWS cloud computing
 - 📫 How to reach me suryamonu204@gmail.com
 
